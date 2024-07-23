@@ -2,7 +2,7 @@
 # A Full Stack Software Developer
 
 # 💫 About Me:
-🌍  I'm based in Lebanon<br>✉️  You can contact me at farahhassaf@hotmail.com<br>🧠  I'm learning Laravel<br>🤝  I'm open to collaborating on Web & Mobile Projects
+🌍  I'm based in Lebanon<br>✉️  You can contact me at farahhassaf@hotmail.com<br>🧠  I'm currently learning Laravel<br>🤝  I'm open to collaborating on Web & Mobile Projects
 
 
 ## 🌐 Socials:
