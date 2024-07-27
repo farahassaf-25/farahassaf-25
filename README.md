@@ -1,6 +1,6 @@
-# Hi there 👋 I am Farah Assaf
-# A Full Stack Software Developer
-<br>
+# Hi there 👋 I am Farah Assaf, A Full Stack Software Developer
+
+
 # 💫 About Me:
 🌍  I'm based in Lebanon<br>✉️  You can contact me at farahhassaf@hotmail.com<br>🧠  I'm currently learning Laravel<br>🤝  I'm open to collaborating on Web & Mobile Projects<br>
 
