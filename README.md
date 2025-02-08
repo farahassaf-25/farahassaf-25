@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/farahassaf_" target="blank"><img src="https://img.shields.io/twitter/follow/farahassaf_?logo=twitter&style=for-the-badge" alt="farahassaf_" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **Web Development** and  **Flutter Mobile Development**
 
 - 👯 I’m looking to collaborate with **developers teams**
 
