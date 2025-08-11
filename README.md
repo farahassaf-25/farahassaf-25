@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **farahhassaf@hotmail.com**
 
-- 📄 Know more about me [https://farah-assaf.vercel.app/](https://farah-assaf.vercel.app/)
+- 📄 Know more about me [https://farah-assaf.vercel.app/](https://farahassaf.com/)
 
 - ⚡ Fun fact **I enjoy debugging more than coding… sometimes! 😆**
 
