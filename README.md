@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=1200&height=120&lines=Hi+%F0%9F%91%8B+I'm+Farah+Assaf;Full+Stack+Engineer;Mobile+Developer;Laravel+%26+Flutter+Builder;Problem+Solver+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=1200&height=120&lines=Hi+%F0%9F%91%8B+I'm+Farah+Assaf;Full+Stack+Software+Engineer;Laravel+%26+React+Builder;Problem+Solver+%26+Builder" alt="Typing SVG" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding banner animation">
 
 </div>
 
@@ -20,27 +20,24 @@
 
 ```typescript
 const farah: Engineer = {
-  title: "Full Stack & Mobile Engineer",
+  title: "Full Stack Software Engineer",
   location: "Lebanon 🇱🇧",
 
   currentMission: [
-    "Building scalable web and mobile architectures",
-    "Crafting seamless cross-platform user experiences",
-    "Integrating AI capabilities into production applications"
+    "Building scalable web applications and robust APIs",
+    "Architecting clean, maintainable full-stack systems"
   ],
 
   expertise: {
     frontend:  ["React", "TypeScript", "Tailwind CSS", "Modern UI/UX"],
-    backend:   ["Node.js", "Laravel", "Python", "Rust + Actix-Web", "API Design"],
-    mobile:    ["Flutter", "Dart", "Cross-Platform Apps"],
+    backend:   ["Laravel", "Node.js", "Python", "API Design"],
     database:  ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    cloud:     ["AWS", "Docker", "Firebase", "CI/CD"],
-    ai:        ["Claude API", "OpenAI API", "LangChain", "Prompt Engineering"]
+    cloud:     ["AWS", "Docker", "CI/CD"]
   },
 
-  philosophy: "Clean code is not written by following rules. Clean code is written by someone who cares.",
+  alsoFamiliarWith: ["Flutter & Dart (mobile)", "Java & Spring Boot"],
 
-  currentlyExploring: ["Laravel Ecosystem", "Mobile Architecture", "AI Integration", "System Design"],
+  philosophy: "Clean code is not written by following rules. Clean code is written by someone who cares.",
 
   building: "ConnectHub — a full-stack freelance marketplace (Laravel + React + Flutter)",
 
@@ -53,9 +50,8 @@ const farah: Engineer = {
 ## 🎯 What Drives Me
 
 - 🚀 **Engineering Excellence** — Writing maintainable, scalable, and performant code
-- 📱 **Cross-Platform Thinking** — Delivering consistent experiences on web and mobile
+- 🎨 **Design-Minded Development** — Often prototyping interfaces in Figma before writing a line of code
 - 💡 **Problem Solving** — Turning complex challenges into elegant solutions
-- 🤖 **AI Integration** — Leveraging Claude, OpenAI, and LangChain in real products
 - 📈 **Continuous Growth** — Always learning, always improving
 - 🤝 **Collaboration** — Thriving in team environments and contributing to collective success
 
@@ -75,7 +71,6 @@ const farah: Engineer = {
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00F0FF)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=00F0FF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00F0FF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00F0FF)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=00F0FF)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00F0FF)
 
@@ -87,8 +82,6 @@ const farah: Engineer = {
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00F0FF)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00F0FF)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00F0FF)
-![Actix-Web](https://img.shields.io/badge/Actix--Web-000000?style=for-the-badge&logo=rust&logoColor=00F0FF)
 
 ### **Databases & Cloud**
 
@@ -96,27 +89,15 @@ const farah: Engineer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00F0FF)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F0FF)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00F0FF)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00F0FF)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00F0FF)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00F0FF)
-![Diesel ORM](https://img.shields.io/badge/Diesel_ORM-000000?style=for-the-badge&logo=rust&logoColor=00F0FF)
 
-### **Mobile Development**
+### **Also Familiar With**
 
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00F0FF)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00F0FF)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=00F0FF)
-![Google Play](https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=00F0FF)
-![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=00F0FF)
-
-### **AI & Integration**
-
-![Claude API](https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=00F0FF)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=00F0FF)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00F0FF)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00F0FF)
-![Stripe API](https://img.shields.io/badge/Stripe_API-000000?style=for-the-badge&logo=stripe&logoColor=00F0FF)
-![Pusher](https://img.shields.io/badge/Pusher-000000?style=for-the-badge&logo=pusher&logoColor=00F0FF)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=00F0FF)
 
 ### **Tools & Workflow**
 
@@ -139,26 +120,26 @@ const farah: Engineer = {
 <tr>
 <td width="25%" align="center">
 
-### 🌐 Web Architecture
-Building scalable, performant web applications with modern frameworks and best practices
+### 🌐 Full-Stack Engineering
+Architecting end-to-end web solutions with modern frameworks and cloud technologies
 
 </td>
 <td width="25%" align="center">
 
-### 📱 Mobile Development
-Cross-platform apps with Flutter delivering native-quality experiences on iOS and Android
+### 🎨 Frontend Engineering
+Building responsive, accessible interfaces with React and TypeScript
+
+</td>
+<td width="25%" align="center">
+
+### ⚙️ Backend Engineering
+Designing secure, scalable APIs with Laravel and Node.js
 
 </td>
 <td width="25%" align="center">
 
 ### ⚡ Performance
 Optimizing applications for speed, efficiency, and exceptional user experience
-
-</td>
-<td width="25%" align="center">
-
-### 🤖 AI Integration
-Embedding Claude, OpenAI, and LangChain into real products that solve real problems
 
 </td>
 </tr>
@@ -176,7 +157,7 @@ Embedding Claude, OpenAI, and LangChain into real products that solve real probl
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b92-4f3f-8b83-c9fa20f8b8c8.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b92-4f3f-8b83-c9fa20f8b8c8.gif" width="500" alt="Let's connect animation">
 
 </div>
 
@@ -186,12 +167,11 @@ Embedding Claude, OpenAI, and LangChain into real products that solve real probl
 
 ```javascript
 const currentStatus = {
-  learning:  "Laravel ecosystem, mobile architecture & AI integration",
+  learning:  "Laravel ecosystem & full-stack architecture patterns",
   building:  "ConnectHub — freelance marketplace with Laravel, React & Flutter",
-  exploring: "Serverless architectures, edge computing, and production AI systems",
   available: true,
   seeking: [
-    "Full-time engineering positions (web or mobile)",
+    "Full-time engineering positions",
     "Exciting freelance projects",
     "Open source collaborations"
   ]
