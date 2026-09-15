@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=1200&height=120&lines=Hi+%F0%9F%91%8B+I'm+Farah+Assaf;Full+Stack+Software+Engineer;Laravel+%26+React+Builder;Problem+Solver+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=1200&height=120&lines=Hey+%F0%9F%91%8B+I'm+Farah+Assaf;Full+Stack+Developer;Laravel+%26+React+Builder;Problem+Solver+%26+Builder" alt="Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding banner animation">
 
@@ -19,8 +19,8 @@
 ## 💫 About Me
 
 ```typescript
-const farah: Engineer = {
-  title: "Full Stack Software Engineer",
+const farah: Developer = {
+  title: "Full Stack Software Developer",
   location: "Lebanon 🇱🇧",
 
   currentMission: [
@@ -30,16 +30,12 @@ const farah: Engineer = {
 
   expertise: {
     frontend:  ["React", "TypeScript", "Tailwind CSS", "Modern UI/UX"],
-    backend:   ["Laravel", "Node.js", "Python", "API Design"],
+    backend:   ["Laravel", "Node.js", "Express.js", "API Design"],
     database:  ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
     cloud:     ["AWS", "Docker", "CI/CD"]
   },
 
-  alsoFamiliarWith: ["Flutter & Dart (mobile)", "Java & Spring Boot"],
-
   philosophy: "Clean code is not written by following rules. Clean code is written by someone who cares.",
-
-  building: "ConnectHub — a full-stack freelance marketplace (Laravel + React + Flutter)",
 
   openTo: ["Full-time Opportunities", "Freelance Projects", "Open Source Collaboration"]
 };
@@ -68,7 +64,6 @@ const farah: Engineer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F0FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F0FF)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F0FF)
-![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00F0FF)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=00F0FF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00F0FF)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=00F0FF)
@@ -80,8 +75,6 @@ const farah: Engineer = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00F0FF)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00F0FF)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00F0FF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F0FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00F0FF)
 
 ### **Databases & Cloud**
 
@@ -96,8 +89,6 @@ const farah: Engineer = {
 
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00F0FF)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00F0FF)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=00F0FF)
 
 ### **Tools & Workflow**
 
@@ -120,20 +111,20 @@ const farah: Engineer = {
 <tr>
 <td width="25%" align="center">
 
-### 🌐 Full-Stack Engineering
+### 🌐 Full-Stack Devloper
 Architecting end-to-end web solutions with modern frameworks and cloud technologies
 
 </td>
 <td width="25%" align="center">
 
-### 🎨 Frontend Engineering
+### 🎨 Frontend Developer
 Building responsive, accessible interfaces with React and TypeScript
 
 </td>
 <td width="25%" align="center">
 
-### ⚙️ Backend Engineering
-Designing secure, scalable APIs with Laravel and Node.js
+### ⚙️ Backend Developer
+Designing secure, scalable APIs with Laravel and Express.js
 
 </td>
 <td width="25%" align="center">
@@ -168,10 +159,9 @@ Optimizing applications for speed, efficiency, and exceptional user experience
 ```javascript
 const currentStatus = {
   learning:  "Laravel ecosystem & full-stack architecture patterns",
-  building:  "ConnectHub — freelance marketplace with Laravel, React & Flutter",
   available: true,
   seeking: [
-    "Full-time engineering positions",
+    "Full-time developer positions",
     "Exciting freelance projects",
     "Open source collaborations"
   ]
